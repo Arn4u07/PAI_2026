@@ -1,0 +1,1 @@
+document.getElementById("PARAGRAF").textContent = "TEXT MODIFICAT PER JAVASCRIPT";
